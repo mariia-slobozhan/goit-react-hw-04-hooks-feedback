@@ -1,0 +1,11 @@
+.item {
+  font-style: 16px;
+  font-weight: 500;
+}
+
+.total_item {
+  composes: item;
+  font-weight: 700;
+  font-style: italic;
+  color: rgb(182, 19, 19);
+}

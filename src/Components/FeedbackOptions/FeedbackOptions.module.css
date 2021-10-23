@@ -1,0 +1,16 @@
+.button {
+  width: 100px;
+  padding: 10px;
+  margin-right: 15px;
+  text-transform: capitalize;
+  font-size: 18px;
+  font-weight: 500;
+  background-color: rgba(211, 157, 151, 0.3);
+  border: none;
+  border-radius: 5px;
+}
+
+.button:hover,
+.button:focus {
+  background-color: skyblue;
+}
